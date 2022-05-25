@@ -1,0 +1,3 @@
+Model size is over 175MB so it can not be uploaded on Git hub so link of Gdrive is given below
+
+violence_model(V1) : https://drive.google.com/file/d/1jlSVXMwXeuCZORCWupcfpwnXu6y-Q5OZ/view?usp=sharing
